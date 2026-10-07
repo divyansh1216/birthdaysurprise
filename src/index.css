@@ -42,3 +42,8 @@
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
   }
 }
+
+@keyframes shimmer {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}

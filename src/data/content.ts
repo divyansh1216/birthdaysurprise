@@ -18,8 +18,8 @@ export const siteConfig = {
   images: {
     hero: "/photo-12.jpeg",
     firstMeeting: "/photo-2.jpeg",
-    relationship: "/photo-3.jpeg",
-    engagement: "/photo-4.jpeg",
+    relationship: "/photo-9.jpeg",
+    engagement: "/photo-7.jpeg",
     current: "/photo-5.jpeg",
     gallery: [
       {
@@ -27,7 +27,7 @@ export const siteConfig = {
         caption: "A moment in time"
       },
       {
-        src: "/photo-7.jpeg",
+        src: "/photo-4.jpeg",
         caption: "Sunset walks"
       },
       {
@@ -35,7 +35,7 @@ export const siteConfig = {
         caption: "Holding hands"
       },
       {
-        src: "/photo-9.jpeg",
+        src: "/photo-3.jpeg",
         caption: "Laughing together"
       },
       {
